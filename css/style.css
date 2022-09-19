@@ -1,0 +1,55 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-image:linear-gradient(45deg,rgb(83, 212, 83), rgb(61, 113, 180));
+    margin-top: 2%;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: aliceblue;
+    text-align: center;
+    font-size: 25px; 
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.div-botoes {
+    display: flex;
+    flex: 1;
+    margin-left: 12.33%;
+
+    
+}
+.div-botoes > div {
+    margin-left: 35px
+
+}
+
+.div-botoes > div > input {
+    border-radius: 15px;
+    text-align: center;
+    height: 40px;
+    width: 450px;
+    box-shadow: 5px 5px 5px;
+    
+}
+
+.div-botoes > div > img {
+    margin-top: -37px;
+}
+
+.div-botoes-selecoes {
+    display: flex;
+    margin-left: 21.5%;
+
+}
+
+.div-botoes-selecoes > div{
+    margin-left: 3%;
+}
+
+.d-block w-100{
+
+    width: 550px;
+    height: 300px;
+}

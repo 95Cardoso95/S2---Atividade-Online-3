@@ -1,0 +1,19 @@
+.carousel-inner{
+    position: static;
+    width: 50%;
+    height: 30%;
+    margin-left: 25%;
+    border-radius: 30px;
+}
+
+.img1{
+
+    margin-left: 19%;
+}
+
+.img{
+    position: relative;
+    width: 20%;
+    height: 20%;
+    margin-left: 45px;
+}
