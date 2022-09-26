@@ -3,6 +3,7 @@ body{
     height: 100%;
     background-image:linear-gradient(45deg,rgb(83, 212, 83), rgb(61, 113, 180));
     margin-top: 2%;
+    flex-wrap: wrap;
 }
 
 h1{
@@ -11,17 +12,20 @@ h1{
     font-size: 25px; 
     font-family: sans-serif;
     font-weight: bold;
+    flex-wrap: wrap;
 }
 
 .div-botoes {
     display: flex;
     flex: 1;
     margin-left: 12.33%;
+    flex-wrap: wrap;
 
     
 }
 .div-botoes > div {
     margin-left: 35px
+    
 
 }
 
@@ -31,25 +35,32 @@ h1{
     height: 40px;
     width: 450px;
     box-shadow: 5px 5px 5px;
+    flex-wrap: wrap;
     
 }
 
 .div-botoes > div > img {
     margin-top: -37px;
+    flex-wrap: wrap;
 }
 
 .div-botoes-selecoes {
     display: flex;
     margin-left: 21.5%;
+    flex-wrap: wrap;
 
 }
 
 .div-botoes-selecoes > div{
     margin-left: 3%;
+    flex-wrap: wrap;
 }
 
 .d-block w-100{
-
     width: 550px;
     height: 300px;
+    flex-wrap: wrap;
+}
+button{
+    font-style: normal, white;
 }
