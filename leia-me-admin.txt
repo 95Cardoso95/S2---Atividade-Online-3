@@ -1,0 +1,11 @@
+o arquivo da pagina login está dentro da pasta HTML, e foi refeita para melhor uso do usuário.
+
+o login e senha para acesso:
+
+login: admin	
+senha: admin
+
+para acessar a página deve-se utilizar a extensão no Visual Studio Code chamada "Live Server" versão 5.7.9 ->
+apos isso abra a página de "login.html" que está contida na pasta "html" ->
+aperte as teclas "CTRL + SHIFT + P" e digite "Live Server: Open With Live Server" (caso apareça esta opção favor seleciona-la ->
+após isso irá abrir a página de login como descrito nas imagem.
